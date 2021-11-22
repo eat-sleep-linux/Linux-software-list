@@ -1,12 +1,12 @@
 # Table of context
 
-## * Audio
+## Audio
   * [Dj Software](/Audio.md#dj-software)
   * [Audioediting & DAW](/Audio.md#audioediting--daw)
   * [Audio-converters](/Audio.md#audio-converters)
   * [Audio players](/Audio.md#audio-players)
   * [Recording Audio](/Audio.md#recording-audio)
-## * Graphics
+## Graphics
   * [3D-modelling & 3D-printing](Graphics.md#3d-modelling--3d-printing)
   * [CAD](Graphics.md#cad)
   * [Image Converters](Graphics.md##Image-Converters)
@@ -15,7 +15,7 @@
   * [Raster graphics editor](Graphics.md#raster-graphics-editor)
   * [Vector graphic editors](Graphics.md#vector-graphic-editors)
   * [Web-design](Graphics.md#web-design)
-## * Internet
+## Internet
   * [Browsers](/Internet.md#browsers)
   * [RSS and news](/Internet.md#rss-and-news)
   * [Communications](/Internet.md#communications)
@@ -23,7 +23,7 @@
   * [Torrent clients & Download managers](Internet.md##torrent-clients--download-managers)
   * [E-mail Clients](Internet.md#e-mail-clients)
   * [Remote access](Internet.md#remote-access)
-## * Office
+## Office
   * [Publishing](/Office.md#publishing)
   * [Mind Maps & Brainstorming](/Office.md#mind-maps--brainstorming)
   * [Notes, Organizers, Team Managers](/Office.md#notes-organizers-team-managers)
