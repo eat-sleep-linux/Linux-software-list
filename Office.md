@@ -6,6 +6,12 @@
 
 # Notes, Organizers, Team Managers
 
+# OCR apps
+
+1. OCRFeeder
+2. Tesseract
+3. 
+
 # Office apps
 
 # eBook readers
