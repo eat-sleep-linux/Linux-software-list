@@ -18,7 +18,7 @@
 
 # Finance apps
 
-1. GNUCash
+1. [GNUCash](https://www.gnucash.org/)
 2. GROESTLCOIN
 3. Homebank
 4. Markets
