@@ -6,10 +6,11 @@
 4. [Blender](https://www.blender.org/)
 5. [Dust3D](https://dust3d.org/)
 6. [Houdini](https://www.sidefx.com/products/houdini/)
-7. [Katana](https://www.foundry.com/products/katana)
-8. [Mari](https://www.foundry.com/products/mari)
-9. [Modo](https://www.foundry.com/products/modo)
-10. [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
+7. [Jahshaka](https://www.jahshaka.com/)
+8. [Katana](https://www.foundry.com/products/katana)
+9. [Mari](https://www.foundry.com/products/mari)
+10. [Modo](https://www.foundry.com/products/modo)
+11. [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
 
 # CAD
 
