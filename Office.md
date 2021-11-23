@@ -26,9 +26,9 @@
 
 # OCR apps
 
-1. [OCRFeeder]()
-2. [Tesseract]()
-3. 
+1. [OCRFeeder](https://wiki.gnome.org/Apps/OCRFeeder)
+2. [Tesseract](https://tesseract-ocr.github.io/)
+
 
 # Office apps
 
