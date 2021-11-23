@@ -5,8 +5,9 @@
 # Mind Maps & Brainstorming
 
 1. [Freeplane](https://www.freeplane.org/wiki/index.php/Home)
-2. [MindMaster](https://www.edrawsoft.com/download-edrawmind.html)
-3. [Xmind](https://www.xmind.net/)
+2. [Minder](https://github.com/phase1geo/minder/)
+3. [MindMaster](https://www.edrawsoft.com/download-edrawmind.html)
+4. [Xmind](https://www.xmind.net/)
 
 # Notes, Organizers, Team Managers
 
