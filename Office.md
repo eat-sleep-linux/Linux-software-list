@@ -18,12 +18,15 @@
 5. [Knowte](https://github.com/digimezzo/knowte)
 6. [Lunatask](https://lunatask.app/)
 7. [Miditerm](https://midterm.app/)
-8. [Notes](https://www.get-notes.com/)
-9. [Notorious](https://notorious.gabmus.org/)
-10. [Qownnotes]()
-11. [Simplenote](https://simplenote.com/)
-12. [Standard Notes](https://standardnotes.com/)
-13. [WeekToDo](https://weektodo.netlify.app/)
+8. [Notable](https://notable.app/)
+9. [Notes](https://www.get-notes.com/)
+10. [Notorious](https://notorious.gabmus.org/)
+11. [Planner](https://planner-todo.web.app/)
+12. [Purple Task](https://github.com/mivoligo/purple_task)
+13. [Qownnotes](https://www.qownnotes.org/)
+14. [Simplenote](https://simplenote.com/)
+15. [Standard Notes](https://standardnotes.com/)
+16. [WeekToDo](https://weektodo.netlify.app/)
 
 # OCR apps
 
@@ -45,6 +48,8 @@
 2. [Calibre](https://calibre-ebook.com/)
 3. [Foliate](https://johnfactotum.github.io/foliate/)
 4. [OpenComic](https://github.com/ollm/OpenComic)
+5. [Peruse](https://peruse.kde.org/)
+6. [Polar](https://getpolarized.io/)
 
 # Finance apps
 
