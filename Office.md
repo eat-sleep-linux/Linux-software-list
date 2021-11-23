@@ -4,7 +4,24 @@
 
 # Mind Maps & Brainstorming
 
+1. Freeplane
+2. MindMaster
+3. Xmind
+
 # Notes, Organizers, Team Managers
+
+1. Boostnote
+2. Fortask
+3. Joplin
+4. Knowte
+5. Lunatask
+6. Miditerm
+7. Notes
+8. Notorious
+9. Qownnotes
+10. Simplenote
+11. Standard Notes
+12. WeekToDo
 
 # OCR apps
 
@@ -14,7 +31,21 @@
 
 # Office apps
 
+1. LibreOffice
+2. OnlyOffice
+3. OpenOffice
+4. SoftMaker Office
+5. WPS Office
+
 # eBook readers
+
+1. Book Manager
+2. Buka
+3. Calibre
+4. csBooks
+5. Bookworm
+6. Foliate
+7. OpenComic
 
 # Finance apps
 
