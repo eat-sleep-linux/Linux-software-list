@@ -19,26 +19,32 @@
 
 # Audio-converters
 
+1. https://www.freac.org/
+
 # Audio players
 
 1. [Audacious](https://audacious-media-player.org/)
 2. [Clapper](https://rafostar.github.io/clapper/)
 3. [Cozy (audiobooks)](https://cozy.sh/)
-4. [Dopamine](https://github.com/digimezzo/dopamine)
-5. [Dragon Player](https://apps.kde.org/ru/dragonplayer/)
-6. [Elisa](https://elisa.kde.org/)
-7. [JuK](https://apps.kde.org/juk/)
-8. [Harmonoid](https://github.com/harmonoid/harmonoid)
-9. [Lollypop](https://wiki.gnome.org/Apps/Lollypop)
-10. [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox)
-11. [QMPlay2](https://github.com/zaps166/QMPlay2)
-12. [SMPlayer](https://www.smplayer.info/ru/info)
-13. [Spotify](https://www.spotify.com/ru-ru/)
-14. [Strawberry](https://www.strawberrymusicplayer.org/)
-15. [VLC](https://www.videolan.org/vlc/)
-16. [Vocal (podcasts)](https://vocalproject.net/)
-17. [Vvave](https://vvave.kde.org/)
-18. [Xnoise](https://www.xnoise-media-player.com/)
+4. [DeaDBeeF](https://deadbeef.sourceforge.io/)
+5. [Dopamine](https://github.com/digimezzo/dopamine)
+6. [Dragon Player](https://apps.kde.org/ru/dragonplayer/)
+7. [Elisa](https://elisa.kde.org/)
+8. [JuK](https://apps.kde.org/juk/)
+9. [Harmonoid](https://github.com/harmonoid/harmonoid)
+10. [Lollypop](https://wiki.gnome.org/Apps/Lollypop)
+11. [Melodie](https://feugy.github.io/melodie/)
+12. [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox)
+13. [QMPlay2](https://github.com/zaps166/QMPlay2)
+14. [Sayonara](https://sayonara-player.com/)
+15. [SMPlayer](https://www.smplayer.info/ru/info)
+16. [Spotify](https://www.spotify.com/ru-ru/)
+17. [Strawberry](https://www.strawberrymusicplayer.org/)
+18. [Tauon Music Box](https://tauonmusicbox.rocks/)
+19. [VLC](https://www.videolan.org/vlc/)
+20. [Vocal (podcasts)](https://vocalproject.net/)
+21. [Vvave](https://vvave.kde.org/)
+22. [Xnoise](https://www.xnoise-media-player.com/)
 
 # Recording Audio
 
