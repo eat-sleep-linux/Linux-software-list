@@ -15,50 +15,51 @@
 
 # Launchers
 
-1. Cerebro
-2. Kupfer
-3. Rofi
-4. Ulauncher
+1. [Cerebro](https://cerebroapp.com/)
+2. [Kupfer](https://kupferlauncher.github.io/)
+3. [Rofi](https://github.com/davatorium/rofi)
+4. [Ulauncher](https://ulauncher.io/)
 
 # Password Managers
 
-1. 1Password
-2. BitWarden
-3. ButterCup
-4. Enpass
-5. KeePassXC
-6. Keeper
-7. KeeWeb
-8. LastPass
-9. Myki
-10. NordPass
+1. [1Password](https://1password.com/downloads/linux/)
+2. [BitWarden](https://bitwarden.com/)
+3. [ButterCup](https://buttercup.pw/)
+4. [Enpass](https://www.enpass.io/)
+5. [KeePassXC](https://keepassxc.org/)
+6. [Keeper](https://www.keepersecurity.com/ru_RU/download.html)
+7. [KeeWeb](https://keeweb.info/)
+8. [LastPass](https://lastpass.com/misc_download2.php?tab=linux&anchor=linux#linuxlplinux)
+9. [Myki](https://myki.com/)
+10. [NordPass](https://nordpass.com/download/linux/)
 
 # Monitoring
 
-1. bottom
-2. bpytop
-3. btop
-4. CPU-X
-5. htop
-6. GreenWithEnvy
-7. P-sensors
-8. Stacer
+1. [bottom](https://github.com/ClementTsang/bottom)
+2. [btop](https://github.com/aristocratos/btop)
+3. [CPU-X](https://x0rg.github.io/CPU-X/)
+4. [htop](https://htop.dev/)
+5. [GreenWithEnvy](https://gitlab.com/leinardi/gwe)
+6. [P-sensors](https://wpitchoune.net/psensor/)
+7. [Stacer](https://oguzhaninan.github.io/Stacer-Web/)
 
 # Cleaning software
 
-1. BleachBit
-2. Stacer
-3. Sweeper
+1. [BleachBit](https://www.bleachbit.org/)
+2. [Stacer](https://oguzhaninan.github.io/Stacer-Web/)
+3. [Sweeper](https://apps.kde.org/sweeper/)
 
 # Desktop Environment Utitlities
 
-1. F.lux
+1. [F.lux](https://justgetflux.com/)
 
 # Backup
 
-1. Deja Dup
-2. Pika Backup
-3. Timeshift
-4. Vorta 
+1. [Deja Dup](https://wiki.gnome.org/Apps/DejaDup)
+2. [Pika Backup](https://apps.gnome.org/ru/app/org.gnome.World.PikaBackup/)
+3. [Timeshift](https://github.com/teejee2008/timeshift)
+4. [Vorta](https://vorta.borgbase.com/)
 
 # Disk Encryption
+
+1. 
