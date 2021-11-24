@@ -58,3 +58,15 @@
  * [Desktop Environment Utitlities](/Utilities.md#desktop-environment-utitlities)
  * [Backup](/Utilities.md#backup)
  * [Disk Encryption](/Utilities.md#disk-encryption)
+## Video
+ * [Video Editing](/Video.md#video-editing)
+ * [Videoconverting](/Video.md#videoconverting)
+ * [Video Players](/Video.md#videoplayers)
+ * [Screencasting](/Video.md#screencasting)
+ * [IPTV](Video.md#iptv)
+## Work with Files
+ * [File archivers](/Work%20with%20files.md#file-archivers)
+ * [Difference files](Work%20with%20files.md#difference-files)
+ * [Search duplicity](Work%20with%20files.md##search-duplicity)
+ * [Search files](Work%20with%20files.md##search-files)
+ 
