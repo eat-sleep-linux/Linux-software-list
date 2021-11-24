@@ -11,7 +11,7 @@
 4. [Harrison Mixbus](https://harrisonconsoles.com/product/mixbus/)
 5. [Harrison Mixbus32C](https://harrisonconsoles.com/product/mixbus-32c/)
 6. [LMMS](https://lmms.io/)
-7. [Loomer]()
+7. [Loomer Architect](https://www.loomer.co.uk/architect.html)
 8. [Reaper](https://www.reaper.fm/)
 9. [RENOISE](https://www.renoise.com/products/renoise)
 10. [Tracktion Wavefrom Free](https://www.tracktion.com/products/waveform-free)
