@@ -12,7 +12,8 @@
 # Rules for adding software
 
 1. Only software which have contribution (for open-source) and/or software which have release in this year (year=365 days)
-2. If you think that finding the software download button is too difficult to find, then add a link to the software download page (not a direct link, a link to a page with this button)
+2. Software which u want to add in this list may work separate of Desktop Environment (e.g. Nautilus is not be added because it working only with GNOME (or based on GNOME) DE
+3. If you think that finding the software download button is too difficult to find, then add a link to the software download page (not a direct link, a link to a page with this button)
 
 # Table of context
 
