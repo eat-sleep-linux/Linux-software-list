@@ -27,7 +27,8 @@
 
 1. [digiKam](https://www.digikam.org/)
 2. [gThumb](https://wiki.gnome.org/Apps/Gthumb)
-3. [Shotwell](https://wiki.gnome.org/Apps/Shotwell)
+3. [Gwenview](https://userbase.kde.org/Gwenview)
+4. [Shotwell](https://wiki.gnome.org/Apps/Shotwell)
 
 # RAW Image grpahic editors
 
