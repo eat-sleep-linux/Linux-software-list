@@ -30,8 +30,10 @@
 
 # OCR apps
 
-1. [OCRFeeder](https://wiki.gnome.org/Apps/OCRFeeder)
-2. [Tesseract](https://tesseract-ocr.github.io/)
+1. [djpdf](https://github.com/Unrud/djpdf)
+2. [Master PDF Editor](https://code-industry.net/masterpdfeditor/)
+3. [OCRFeeder](https://wiki.gnome.org/Apps/OCRFeeder)
+4. [Tesseract](https://tesseract-ocr.github.io/)
 
 
 # Office apps
