@@ -33,7 +33,8 @@
 1. [djpdf](https://github.com/Unrud/djpdf)
 2. [Master PDF Editor](https://code-industry.net/masterpdfeditor/)
 3. [OCRFeeder](https://wiki.gnome.org/Apps/OCRFeeder)
-4. [Tesseract](https://tesseract-ocr.github.io/)
+4. [Paperwork](https://openpaper.work/en/)
+5. [Tesseract](https://tesseract-ocr.github.io/)
 
 
 # Office apps
