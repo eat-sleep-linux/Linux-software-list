@@ -1,13 +1,12 @@
 # How to add software
 
-1. Need register on this site (Github.com)
-2. Fork this repository (third button on right corner)
-3. Return in your profile and open needed doc (e.g [Audio](/Audio.md))
-4. Add your software
-5. Return in main repo (Linux-Software/Linux-software-list)
-6. Open pull request and difference across fork
-7. Add pull request
-8. Profit!
+1. Fork this repository (third button on right corner)
+2. Return in your profile and open the doc you want to edit (e.g [Audio](/Audio.md))
+3. Add your software
+4. Return to main repo (Linux-Software/Linux-software-list)
+5. Open pull request and difference across fork
+6. Add pull request
+7. Profit!
 
 # Rules for adding software
 
