@@ -4,7 +4,7 @@
 2. Return in your profile and open the doc you want to edit (e.g [Audio](/Audio.md))
 3. Add your software
 4. Return to main repo (Linux-Software/Linux-software-list)
-5. Open pull request and difference across fork
+5. Open pull request and press button "Compare across fork"
 6. Add pull request
 7. Profit!
 
