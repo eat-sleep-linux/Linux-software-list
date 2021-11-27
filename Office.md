@@ -1,6 +1,7 @@
 # Publishing
 
-1. [Scribus](https://www.scribus.net/)
+1. [Laidout](https://github.com/Laidout/laidout)
+2. [Scribus](https://www.scribus.net/)
 
 # Mind Maps & Brainstorming
 
