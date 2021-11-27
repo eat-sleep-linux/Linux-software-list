@@ -1,0 +1,36 @@
+Code editors & IDE
+
+[Android Studio](https://developer.android.com/studio)
+[Atom](https://atom.io/)
+[blueGriffon](http://bluegriffon.org/)
+[Bootstrap Studio](https://bootstrapstudio.io/)
+[Brackets](https://brackets.io/)
+[CLion](https://www.jetbrains.com/clion/)
+[DataGrip](https://www.jetbrains.com/datagrip/)
+[Eclipse](https://www.eclipse.org/eclipseide/)
+[Emacs](https://www.gnu.org/software/emacs/)
+[Geany](https://www.geany.org/)
+[GoLand](https://www.jetbrains.com/go/)
+[IntelliJ Idea](https://www.jetbrains.com/idea/)
+[KDevelop](https://www.kdevelop.org/)
+[kodeWeave](https://michaelsboost.com/kodeWeave/)
+[Micro](https://micro-editor.github.io/)
+[nano](https://www.nano-editor.org/)
+[Neovim](https://neovim.io/)
+[NetBeans](https://netbeans.apache.org/)
+[PineGrow](https://pinegrow.com/)
+[Postman](https://www.postman.com/)
+[PyCharm](https://www.jetbrains.com/pycharm/)
+[Rider](https://www.jetbrains.com/rider/)
+[Rubymine](https://www.jetbrains.com/ruby/)
+[Sublime Text](https://www.sublimetext.com/)
+[Theia](https://theia-ide.org/)
+[TweakStyle](https://tweakstyle.com/)
+[Vim](https://www.vim.org/)
+[Visual Studio Code](https://code.visualstudio.com/)
+[WebStorm](https://www.jetbrains.com/webstorm/)
+
+
+# Utilities
+
+[GitKraken](https://www.gitkraken.com/)
