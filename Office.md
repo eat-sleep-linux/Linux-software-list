@@ -2,6 +2,7 @@
 
 1. [Laidout](https://github.com/Laidout/laidout)
 2. [Scribus](https://www.scribus.net/)
+3. [VivaDesigner](http://www.viva.us/en/products/desktop-publishing/vivadesigner-desktop-version/download)
 
 # Mind Maps & Brainstorming
 
