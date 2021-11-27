@@ -1,16 +1,17 @@
 # 3D-modelling & 3D-printing
 
-1. [Autodesk Maya](https://www.autodesk.com/products/maya/overview)
-2. [Autodesk MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview)
-3. [Autodesk Mudbox](https://www.autodesk.com/products/mudbox/overview)
-4. [Blender](https://www.blender.org/)
-5. [Dust3D](https://dust3d.org/)
-6. [Houdini](https://www.sidefx.com/products/houdini/)
-7. [Jahshaka](https://www.jahshaka.com/)
-8. [Katana](https://www.foundry.com/products/katana)
-9. [Mari](https://www.foundry.com/products/mari)
-10. [Modo](https://www.foundry.com/products/modo)
-11. [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
+1. [AssetForge](https://assetforge.io/)
+2. [Autodesk Maya](https://www.autodesk.com/products/maya/overview)
+3. [Autodesk MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview)
+4. [Autodesk Mudbox](https://www.autodesk.com/products/mudbox/overview)
+5. [Blender](https://www.blender.org/)
+6. [Dust3D](https://dust3d.org/)
+7. [Houdini](https://www.sidefx.com/products/houdini/)
+8. [Jahshaka](https://www.jahshaka.com/)
+9. [Katana](https://www.foundry.com/products/katana)
+10. [Mari](https://www.foundry.com/products/mari)
+11. [Modo](https://www.foundry.com/products/modo)
+12. [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
 
 # CAD
 
@@ -18,8 +19,10 @@
 2. [BricsCAD](https://www.bricsys.com/ru-ru/bricscad-lite)
 3. [FreeCAD](https://www.freecadweb.org/downloads.php)
 4. [gCAD3D](https://www.gcad3d.org/)
-5. [OpenSCAD](https://openscad.org/)
-6. [Siemens NX](https://www.plm.automation.siemens.com/global/en/products/nx/)
+5. [LibreCAD](https://librecad.org/)
+6. [OpenSCAD](https://openscad.org/)
+7. [QCAD](https://www.qcad.org/en/)
+8. [Siemens NX](https://www.plm.automation.siemens.com/global/en/products/nx/)
 
 # Image Converters
 
