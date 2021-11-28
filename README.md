@@ -1,21 +1,21 @@
 # How to add software
 
-1. Fork this repository (third button on right corner)
-2. Return in your profile and open the doc you want to edit (e.g [Audio](/Audio.md))
+1. Fork this repository (third button at the upper right corner)
+2. Return to your profile and open the doc you want to edit (e.g [Audio](/Audio.md))
 3. Add your software
-4. Return to main repo (Linux-Software/Linux-software-list)
-5. Open pull request and press button "Compare across fork"
-6. Add pull request
+4. Return to the upstream repo (Linux-Software/Linux-software-list)
+5. Create a new pull request ("New pull request" -> "Compare across forks")
+6. Add your pull request
 7. Profit!
 
 # Rules for adding software
 
-1. Only software which have contribution (for open-source) and/or software which have release in this year (year=365 days)
-2. Software which u want to add in this list may work separate of Desktop Environment (e.g. Nautilus is not be added because it working only with GNOME (or based on GNOME) DE
-3. If you think that finding the software download button is too difficult to find, then add a link to the software download page (not a direct link, a link to a page with this button)
+1. Only software which is under active development (if it's open-source) and/or software which had at least one release in the last year
+2. Only software that can be used with any DE (e.g. Nautilus is not going to be added because it works only with GNOME(-based) DEs)
+3. If you think that download button is too difficult to find, then add a link to the download page (not a direct link but a link to a page with this button)
 4. Only GUI or TUI software
 
-# Table of context
+# Table of contents
 
 ## Audio
   * [Dj Software](/Audio.md#dj-software)
