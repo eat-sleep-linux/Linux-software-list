@@ -35,14 +35,15 @@
 
 # Monitoring
 
-1. [bottom](https://github.com/ClementTsang/bottom)
-2. [btop](https://github.com/aristocratos/btop)
-3. [CPU-X](https://x0rg.github.io/CPU-X/)
-4. [htop](https://htop.dev/)
-5. [glances](https://nicolargo.github.io/glances/)
-6. [GreenWithEnvy](https://gitlab.com/leinardi/gwe)
-7. [P-sensors](https://wpitchoune.net/psensor/)
-8. [Stacer](https://oguzhaninan.github.io/Stacer-Web/)
+1. [Allusion](https://allusion-app.github.io/)
+2. [bottom](https://github.com/ClementTsang/bottom)
+3. [btop](https://github.com/aristocratos/btop)
+4. [CPU-X](https://x0rg.github.io/CPU-X/)
+5. [htop](https://htop.dev/)
+6. [glances](https://nicolargo.github.io/glances/)
+7. [GreenWithEnvy](https://gitlab.com/leinardi/gwe)
+8. [P-sensors](https://wpitchoune.net/psensor/)
+9. [Stacer](https://oguzhaninan.github.io/Stacer-Web/)
 
 # Cleaning software
 
