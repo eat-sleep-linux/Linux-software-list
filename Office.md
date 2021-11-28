@@ -58,6 +58,7 @@
 4. [OpenComic](https://github.com/ollm/OpenComic)
 5. [Peruse](https://peruse.kde.org/)
 6. [Polar](https://getpolarized.io/)
+7. [Thorium Reader](https://www.edrlab.org/software/thorium-reader/)
 
 # Finance apps
 
