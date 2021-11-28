@@ -4,6 +4,12 @@
 2. [Scribus](https://www.scribus.net/)
 3. [VivaDesigner](http://www.viva.us/en/products/desktop-publishing/vivadesigner-desktop-version/download)
 
+# Markdown Editors
+
+1. [Apostrophe]
+2. [Mark Text]
+3. [Zettlr](https://www.zettlr.com/)
+
 # Mind Maps & Brainstorming
 
 1. [Freeplane](https://www.freeplane.org/wiki/index.php/Home)
@@ -66,13 +72,14 @@
 2. [GNUCash](https://www.gnucash.org/)
 3. [GROESTLCOIN](https://www.groestlcoin.org/)
 4. [Homebank](http://homebank.free.fr/en/index.php)
-5. [Markets](https://github.com/bitstower/markets)
-6. [Monero GUI](https://www.getmonero.org/)
-7. [Moneta](https://github.com/matfantinel/moneta)
-8. [Moneydance](https://moneydance.com/)
-9. [Peercoin](https://www.peercoin.net/)
-10. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.html)
-11. [TradeSim](https://github.com/horaciodrs/TradeSim)
-12. [TradingView](https://www.tradingview.com/desktop/)
-13. [VergeCurrency](https://vergecurrency.com/wallets/)
-14. [Wasabi Wallet](https://wasabiwallet.io/)
+5. [HyperTrader](https://hypertrader.app/)
+6. [Markets](https://github.com/bitstower/markets)
+7. [Monero GUI](https://www.getmonero.org/)
+8. [Moneta](https://github.com/matfantinel/moneta)
+9. [Moneydance](https://moneydance.com/)
+10. [Peercoin](https://www.peercoin.net/)
+11. [Thinkorswim](https://www.tdameritrade.com/tools-and-platforms/thinkorswim/desktop.html)
+12. [TradeSim](https://github.com/horaciodrs/TradeSim)
+13. [TradingView](https://www.tradingview.com/desktop/)
+14. [VergeCurrency](https://vergecurrency.com/wallets/)
+15. [Wasabi Wallet](https://wasabiwallet.io/)
