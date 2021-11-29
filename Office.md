@@ -7,7 +7,7 @@
 # Markdown Editors
 
 1. [Apostrophe]
-2. [Mark Text]
+2. [Mark Text](https://marktext.app/)
 3. [Zettlr](https://www.zettlr.com/)
 
 # Mind Maps & Brainstorming
