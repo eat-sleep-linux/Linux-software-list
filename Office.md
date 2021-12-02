@@ -42,10 +42,12 @@
 # OCR apps
 
 1. [djpdf](https://github.com/Unrud/djpdf)
-2. [Master PDF Editor](https://code-industry.net/masterpdfeditor/)
-3. [OCRFeeder](https://wiki.gnome.org/Apps/OCRFeeder)
-4. [Paperwork](https://openpaper.work/en/)
-5. [Tesseract](https://tesseract-ocr.github.io/)
+2. [gImageReader](https://github.com/manisandro/gImageReader)
+3. [Master PDF Editor](https://code-industry.net/masterpdfeditor/)
+4. [OCRFeeder](https://wiki.gnome.org/Apps/OCRFeeder)
+5. [Paperwork](https://openpaper.work/en/)
+6. [Tesseract](https://tesseract-ocr.github.io/)
+7. [yagf](https://sourceforge.net/projects/yagf-ocr/)
 
 
 # Office apps
