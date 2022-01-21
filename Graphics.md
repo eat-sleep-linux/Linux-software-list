@@ -15,14 +15,15 @@
 
 # CAD
 
-1. [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview)
-2. [BricsCAD](https://www.bricsys.com/ru-ru/bricscad-lite)
-3. [FreeCAD](https://www.freecadweb.org/downloads.php)
-4. [gCAD3D](https://www.gcad3d.org/)
-5. [LibreCAD](https://librecad.org/)
-6. [OpenSCAD](https://openscad.org/)
-7. [QCAD](https://www.qcad.org/en/)
-8. [Siemens NX](https://www.plm.automation.siemens.com/global/en/products/nx/)
+1. [Ansys](https://www.ansys.com/products#t=ProductsTab&sort=relevancy&layout=card)
+2. [Autodesk Eagle](https://www.autodesk.com/products/eagle/overview)
+3. [BricsCAD](https://www.bricsys.com/ru-ru/bricscad-lite)
+4. [FreeCAD](https://www.freecadweb.org/downloads.php)
+5. [gCAD3D](https://www.gcad3d.org/)
+6. [LibreCAD](https://librecad.org/)
+7. [OpenSCAD](https://openscad.org/)
+8. [QCAD](https://www.qcad.org/en/)
+9. [Siemens NX](https://www.plm.automation.siemens.com/global/en/products/nx/)
 
 # Image Converters
 
