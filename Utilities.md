@@ -40,10 +40,12 @@
 3. [btop](https://github.com/aristocratos/btop)
 4. [CPU-X](https://x0rg.github.io/CPU-X/)
 5. [htop](https://htop.dev/)
-6. [glances](https://nicolargo.github.io/glances/)
-7. [GreenWithEnvy](https://gitlab.com/leinardi/gwe)
-8. [P-sensors](https://wpitchoune.net/psensor/)
-9. [Stacer](https://oguzhaninan.github.io/Stacer-Web/)
+6. [gdu](https://github.com/dundee/gdu)
+7. [glances](https://nicolargo.github.io/glances/)
+[godu](https://github.com/viktomas/godu)
+8. [GreenWithEnvy](https://gitlab.com/leinardi/gwe)
+9. [P-sensors](https://wpitchoune.net/psensor/)
+10. [Stacer](https://oguzhaninan.github.io/Stacer-Web/)
 
 # Cleaning software
 
