@@ -43,9 +43,11 @@
 6. [gdu](https://github.com/dundee/gdu)
 7. [glances](https://nicolargo.github.io/glances/)
 8. [godu](https://github.com/viktomas/godu)
-9. [GreenWithEnvy](https://gitlab.com/leinardi/gwe)
-10. [P-sensors](https://wpitchoune.net/psensor/)
-11. [Stacer](https://oguzhaninan.github.io/Stacer-Web/)
+9. [gotop](https://github.com/xxxserxxx/gotop)
+10. [GreenWithEnvy](https://gitlab.com/leinardi/gwe)
+11. [gtop](https://github.com/aksakalli/gtop)
+12. [P-sensors](https://wpitchoune.net/psensor/)
+13. [Stacer](https://oguzhaninan.github.io/Stacer-Web/)
 
 # Cleaning software
 
