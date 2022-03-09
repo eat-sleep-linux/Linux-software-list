@@ -18,6 +18,7 @@
 10. [RENOISE](https://www.renoise.com/products/renoise)
 11. [Tracktion Wavefrom Free](https://www.tracktion.com/products/waveform-free)
 12. [Tracktion Wavefrom PRO](https://www.tracktion.com/products/waveform-pro)
+13. [Zrythm](https://www.zrythm.org/en/index.html)
 
 # Audio-converters
 
