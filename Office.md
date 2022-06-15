@@ -28,7 +28,7 @@
 7. [Keepmark](https://keepmark.io/en/)
 8. [Knowte](https://github.com/digimezzo/knowte)
 9. [Lunatask](https://lunatask.app/)
-10. [Miditerm](https://midterm.app/)
+10. [Midterm](https://midterm.app/)
 11. [Notable](https://notable.app/)
 12. [Notes](https://www.get-notes.com/)
 13. [Notorious](https://notorious.gabmus.org/)
