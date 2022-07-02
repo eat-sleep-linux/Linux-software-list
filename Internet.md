@@ -1,3 +1,10 @@
+# All-in-One Browsers 
+1. [Ferdium](https://ferdium.org/)
+2. [Franz](https://meetfranz.com/)
+3. [Rambox](https://rambox.app/)
+4. [Station](https://getstation.com/)
+6. [Tangram](https://apps.gnome.org/ru/app/re.sonny.Tangram/)
+
 # Browsers
 1. [Basilisk](https://basilisk-browser.org/)
 2. [Brave](https://brave.com/linux/#linux)
@@ -5,7 +12,7 @@
 4. [Elza Browser](https://elzabrowser.com/)
 5. [Falkon](https://www.falkon.org/)
 6. [Firefox](https://www.mozilla.org/ru/firefox/new/)
-7. [GNOME Web](https://wiki.gnome.org/Apps/Web)
+7. [GNOME Web](https://wiki.gnome.org/action/show/Apps/Web)
 8. [Google Chrome](https://www.google.ru/intl/ru/chrome/)
 9. [IceCat](https://www.gnu.org/software/gnuzilla/)
 10. [K-Meleon](http://kmeleonbrowser.org/)
