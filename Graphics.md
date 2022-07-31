@@ -1,17 +1,24 @@
+# 2D-modelling
+
+1. [enve](https://maurycyliebner.github.io/dow/index)
+2. [Pencil2D](https://www.pencil2d.org/)
+
 # 3D-modelling & 3D-printing
 
-1. [AssetForge](https://assetforge.io/)
-2. [Autodesk Maya](https://www.autodesk.com/products/maya/overview)
-3. [Autodesk MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview)
-4. [Autodesk Mudbox](https://www.autodesk.com/products/mudbox/overview)
-5. [Blender](https://www.blender.org/)
-6. [Dust3D](https://dust3d.org/)
-7. [Houdini](https://www.sidefx.com/products/houdini/)
-8. [Jahshaka](https://www.jahshaka.com/)
-9. [Katana](https://www.foundry.com/products/katana)
-10. [Mari](https://www.foundry.com/products/mari)
-11. [Modo](https://www.foundry.com/products/modo)
-12. [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
+1. [AnimaShooter](http://www.animashooter.com/)
+2. [AssetForge](https://assetforge.io/)
+3. [Autodesk Maya](https://www.autodesk.com/products/maya/overview)
+4. [Autodesk MotionBuilder](https://www.autodesk.com/products/motionbuilder/overview)
+5. [Autodesk Mudbox](https://www.autodesk.com/products/mudbox/overview)
+6. [Blender](https://www.blender.org/)
+7. [Bridge](https://quixel.com/bridge)
+8. [Dust3D](https://dust3d.org/)
+9. [Houdini](https://www.sidefx.com/products/houdini/)
+10. [Jahshaka](https://www.jahshaka.com/)
+11. [Katana](https://www.foundry.com/products/katana)
+12. [Mari](https://www.foundry.com/products/mari)
+13. [Modo](https://www.foundry.com/products/modo)
+14. [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
 
 # CAD
 
